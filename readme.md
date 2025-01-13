@@ -1,8 +1,8 @@
 
 # Berserker Deobfuscator
 
-A simple but effective deobfuscator for berserker. 
-
+A simple but effective deobfuscator for berserker. You can find a link to berserker here [!berserker](https://github.com/billythegoat356/Berserker)
+ 
 
 ## How to use
 
