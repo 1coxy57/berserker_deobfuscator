@@ -9,6 +9,6 @@ A simple but effective deobfuscator for berserker.
 To deobfuscate a file, in your terminal run,
 
 ```bash
-  python main.py filename (example.py)
+python main.py filename (example.py)
 ```
 
