@@ -1,5 +1,5 @@
 import argparse, asyncio
-from berserker import decrypt
+from berk import decrypt
 import os, sys
 import logging
 import colorlog
