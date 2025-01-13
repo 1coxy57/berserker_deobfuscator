@@ -1,5 +1,5 @@
 import argparse, asyncio
-from berserker import decrypt
+from berk import decrypt
 
 async def main(file: str) -> str:
     with open(file,'r') as f:
