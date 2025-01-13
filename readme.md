@@ -1,7 +1,7 @@
 
 # Berserker Deobfuscator
 
-A simple but effective deobfuscator for berserker 
+A simple but effective deobfuscator for berserker. 
 
 
 
