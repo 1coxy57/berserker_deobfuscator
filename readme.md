@@ -4,11 +4,11 @@
 A simple but effective deobfuscator for berserker. 
 
 
+## How to use
 
+To deobfuscate a file, in your terminal run,
 
-## Usage/Examples
-
-```python
-python main.py [file]
+```bash
+  python main.py filename (example.py)
 ```
 
