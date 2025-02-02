@@ -63,8 +63,8 @@ class Berserker:
         return self._bits(_execute)
 
 
-async def decrypt(f):
-    with open("berk.py") as f:
+async def decrypt(fn: str):
+    with open(fn) as f:
         f = f.read()
         encrypted = f.split("_sparkle=")[1].split(")")[0].replace("'''", "")
         return Berserker(_encode=False, _sparkle=encrypted).__decode__(encrypted)
